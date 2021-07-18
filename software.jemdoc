@@ -1,4 +1,5 @@
 # jemdoc: menu{MENU}{software.html}
 = Software 
 
-/under construction/
+== Set Membership Global Optimizer (SMGO)
+- \[[https://github.com/lorenzosabugjr/smgo GitHub]\] \[[https://arxiv.org/abs/2011.03837 arXiv]\]
