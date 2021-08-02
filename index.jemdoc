@@ -14,6 +14,7 @@ Contact: [lorenzojr.sabug@polimi.it Email], [https://www.linkedin.com/in/lrsabug
 I am a doctoral candidate at Politecnico di Milano, working under supervision of prof. Lorenzo Fagiano and prof. Fredy Ruiz. I am particularly interested in data-driven optimization algorithms, with applications to UAVs and other aerospace systems. I earned a M.Sc. from RWTH Aachen, and have performed research in non-linear and multi-agent control for HVDC power systems. After my M.Sc. I have worked on a radio payload currently onboard the microsatellite Diwata-2.
 
 == News 
+- \[2021.07.27\] Our new results on "Trading-off safety, exploration, and exploitation in learning-based optimization: a Set Membership approach" has been *accepted* for presentation at CDC 2021!
 - \[2021.06.14\] Our contribution "SMGO: A Set Membership Approach to Data-Driven Global Optimization" has been *accepted* for publication in /Automatica/ (vol. 57, no. 12)! arXiv pre-print available [https://arxiv.org/abs/2011.03837 here], code [https://github.com/lorenzosabugjr/smgo here]!
 - \[2020.07.16\] Our new paper "On the use of set membership theory for global optimization of black-box functions" has been *accepted* for CDC 2020!
 - \[2019.08.31\] I have now left the microsatellite development team at UP Diliman to embark on a new and exciting Ph.D. journey at Politecnico! I thank all my mentors and colleagues from this dynamic research group, for a highly productive and impactful work.
