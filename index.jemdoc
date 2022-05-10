@@ -14,6 +14,8 @@ Contact: [lorenzojr.sabug@polimi.it Email], [https://www.linkedin.com/in/lrsabug
 I am a doctoral candidate at Politecnico di Milano, working under supervision of prof. Lorenzo Fagiano and prof. Fredy Ruiz. I am particularly interested in data-driven optimization algorithms, with applications to UAVs and other aerospace systems. I earned a M.Sc. from RWTH Aachen, and have performed research in non-linear and multi-agent control for HVDC power systems. After my M.Sc. I have worked on a radio payload currently onboard the microsatellite Diwata-2.
 
 == News 
+- \[2022.05.08\] Experimental results using SMGO accepted for presentation at CCTA 2022: "Direct control design using a Set Membership-based black-box optimization approach".
+- \[2022.05.07\] New paper is out!: "SMGO-Δ: Balancing Caution and Reward in Global Optimization with Black-Box Constraints" in /Information Sciences/, arXiv pre-print available [https://arxiv.org/abs/2202.11445 here], code [https://github.com/lorenzosabugjr/smgo-delta here]!
 - \[2021.07.27\] Our new results on "Trading-off safety, exploration, and exploitation in learning-based optimization: a Set Membership approach" has been *accepted* for presentation at CDC 2021!
 - \[2021.06.14\] Our contribution "SMGO: A Set Membership Approach to Data-Driven Global Optimization" has been *accepted* for publication in /Automatica/ (vol. 57, no. 12)! arXiv pre-print available [https://arxiv.org/abs/2011.03837 here], code [https://github.com/lorenzosabugjr/smgo here]!
 - \[2020.07.16\] Our new paper "On the use of set membership theory for global optimization of black-box functions" has been *accepted* for CDC 2020!
@@ -24,7 +26,7 @@ I am a doctoral candidate at Politecnico di Milano, working under supervision of
 - \[2018.07.16\] Our article on multi-agent-based frequency control for HVDC grids is [https://doi.org/10.1049/iet-rpg.2018.5120 out].
 - \[2018.03.01\] Published [https://doi.org/10.1109/TPWRD.2018.2811560 online] our article on predictive sliding mode control for HVDC grids.
 
-== Education 
+== Profile 
 - Ph.D., Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, Milan, Italy, Nov. 2019 - Present
 - M.Sc., Fakultät für Elektrotechnik und Informationstechnik, RWTH Aachen, Aachen, Germany, Oct. 2014 - Sep. 2016
 - B.Sc., Electrical and Electronics Engineering Institute, University of the Philippines Diliman, Quezon City, Philippines, Jun. 2006 - Apr. 2012
