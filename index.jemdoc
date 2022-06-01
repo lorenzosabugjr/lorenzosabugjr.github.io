@@ -16,6 +16,7 @@ I am a doctoral candidate at Politecnico di Milano, working under supervision of
 == News 
 - \[2022.05.08\] Experimental results using SMGO accepted for presentation at CCTA 2022: "Direct control design using a Set Membership-based black-box optimization approach".
 - \[2022.05.07\] New paper is out!: "SMGO-Δ: Balancing Caution and Reward in Global Optimization with Black-Box Constraints" in /Information Sciences/, arXiv pre-print available [https://arxiv.org/abs/2202.11445 here], code [https://github.com/lorenzosabugjr/smgo-delta here]!
+- \[2021.12.02\] Our paper "SMGO: A Set Membership Approach to Data-Driven Global Optimization" is [https://www.journals.elsevier.com/automatica/editors-choice/november-2021-automatica *Editors' Choice*] in /Automatica/, November 2021 issue! This means that the paper is now freely accessible from the publisher [https://doi.org/10.1016/j.automatica.2021.109890 here].
 - \[2021.07.27\] Our new results on "Trading-off safety, exploration, and exploitation in learning-based optimization: a Set Membership approach" has been *accepted* for presentation at CDC 2021!
 - \[2021.06.14\] Our contribution "SMGO: A Set Membership Approach to Data-Driven Global Optimization" has been *accepted* for publication in /Automatica/ (vol. 57, no. 12)! arXiv pre-print available [https://arxiv.org/abs/2011.03837 here], code [https://github.com/lorenzosabugjr/smgo here]!
 - \[2020.07.16\] Our new paper "On the use of set membership theory for global optimization of black-box functions" has been *accepted* for CDC 2020!
