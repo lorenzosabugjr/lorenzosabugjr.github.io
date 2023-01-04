@@ -2,4 +2,5 @@
 = Software 
 
 == Set Membership Global Optimizer (SMGO)
-- \[[https://github.com/lorenzosabugjr/smgo GitHub]\] \[[https://arxiv.org/abs/2011.03837 arXiv]\]
+- A MATLAB Toolbox implementing SMGO for optimizing black-box problems. If you found this toolbox useful in solving your problem, we'd appreciate if you could cite one or more of the following: \[[https://doi.org/10.1109/CDC42340.2020.9304123 1]\]  \[[https://doi.org/10.1016/j.automatica.2021.109890 2]\] \[[https://doi.org/10.1109/CDC45484.2021.9683334 3]\] \[[https://doi.org/10.1016/j.ins.2022.05.017 4]\]
+- \[[https://uk.mathworks.com/matlabcentral/fileexchange/122827-set-membership-global-optimization MATLAB File Exchange]\]
