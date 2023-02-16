@@ -4,16 +4,17 @@
 ~~~
 {}{img_left}{face.png}{face pic}{154px}{226px}{}
 Lorenzo Sabug, Jr. \n
-Dottorando in Ingegneria dell'Informazione \n 
+Postdoctoral researcher \n 
 [https://deib.polimi.it/ Dipartimento di Elettronica, Informazione e Bioingegneria] \n
 [http://www.polimi.it/ Politecnico di Milano] \n
 Contact: [lorenzojr.sabug@polimi.it Email], [https://www.linkedin.com/in/lrsabug/ LinkedIn], [https://scholar.google.com/citations?user=ZUdDoPcAAAAJ&hl=de Scholar], [https://orcid.org/0000-0003-2066-2653 ORCID]
 ~~~
 
 == Short Bio 
-I am a doctoral candidate at Politecnico di Milano, working under supervision of prof. Lorenzo Fagiano and prof. Fredy Ruiz. I am particularly interested in data-driven optimization algorithms, with applications to UAVs and other aerospace systems. I earned a M.Sc. from RWTH Aachen, and have performed research in non-linear and multi-agent control for HVDC power systems. After my M.Sc. I have worked on a radio payload currently onboard the microsatellite Diwata-2.
+I am a postdoctoral candidate at Politecnico di Milano, working with prof. Fredy Ruiz and prof. Lorenzo Fagiano. I earned a Ph.D. from Politecnico di Milano with the dissertation /On data-driven optimization in the design and control of autonomous systems/. I am particularly interested in fast data-driven optimization algorithms that can be applied to time-critical contexts.
 
 == News 
+- \[2023.02.14\] Defended my dissertation /On data-driven optimization in the design and control of autonomous systems/, for which I earned a Ph.D. with distinction (/cum laude/).
 - \[2022.05.08\] Experimental results using SMGO accepted for presentation at CCTA 2022: "Direct control design using a Set Membership-based black-box optimization approach".
 - \[2022.05.07\] New paper is out!: "SMGO-Δ: Balancing Caution and Reward in Global Optimization with Black-Box Constraints" in /Information Sciences/, arXiv pre-print available [https://arxiv.org/abs/2202.11445 here], code [https://github.com/lorenzosabugjr/smgo-delta here]!
 - \[2021.12.02\] Our paper "SMGO: A Set Membership Approach to Data-Driven Global Optimization" is [https://www.journals.elsevier.com/automatica/editors-choice/november-2021-automatica *Editors' Choice*] in /Automatica/, November 2021 issue! This means that the paper is now freely accessible from the publisher [https://doi.org/10.1016/j.automatica.2021.109890 here].
@@ -28,7 +29,7 @@ I am a doctoral candidate at Politecnico di Milano, working under supervision of
 - \[2018.03.01\] Published [https://doi.org/10.1109/TPWRD.2018.2811560 online] our article on predictive sliding mode control for HVDC grids.
 
 == Profile 
-- Ph.D., Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, Milan, Italy, Nov. 2019 - Present
+- Ph.D., Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, Milan, Italy, Nov. 2019 - Oct. 2022
 - M.Sc., Fakultät für Elektrotechnik und Informationstechnik, RWTH Aachen, Aachen, Germany, Oct. 2014 - Sep. 2016
 - B.Sc., Electrical and Electronics Engineering Institute, University of the Philippines Diliman, Quezon City, Philippines, Jun. 2006 - Apr. 2012
 
