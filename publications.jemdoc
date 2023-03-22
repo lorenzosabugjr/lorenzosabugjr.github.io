@@ -2,10 +2,9 @@
 = Publications 
 
 
-- Journal Articles
-
+- Journal Articlesss
 -- Simultaneous Design of Passive and Active Spacecraft Attitude Control Using Black-Box Optimization\n
-*Lorenzo Sabug, Jr.*, Gian Paolo Incremona, Mara Tanelli, Fredy Ruiz, and Lorenzo Fagiano, /Control Engineering Practice/.
+*Lorenzo Sabug, Jr.*, Gian Paolo Incremona, Mara Tanelli, Fredy Ruiz, and Lorenzo Fagiano, /Control Eng. Practice/.
 -- [https://doi.org/10.1016/j.ins.2022.05.017 SMGO-Δ: Balancing Caution and Reward in Global Optimization with Black-Box Constraints]\n
 *Lorenzo Sabug, Jr.*, Fredy Ruiz, and Lorenzo Fagiano, /Information Sciences/.
 -- [https://doi.org/10.1016/j.automatica.2021.109890 SMGO: A Set Membership Approach to Data-Driven Global Optimization]\n
@@ -18,7 +17,7 @@ Aysar Musa, *Lorenzo Sabug, Jr.*, Ferdinanda Ponci, and Antonello Monti, /IET Re
 Aysar Musa, *Lorenzo Sabug, Jr.*, and Antonello Monti, /IEEE Trans. Power Del./ 33(4): 1455-1555.
 
 - Conference Papers
--- [A Set Membership approach to black-box optimization for time-varying problems]\n
+-- A Set Membership approach to black-box optimization for time-varying problems\n
 *Lorenzo Sabug, Jr.*, Fredy Ruiz, and Lorenzo Fagiano, /IFAC World Congress/, Yokohama, Japan, 2023 (accepted).
 -- [https://doi.org/10.1109/CCTA49430.2022.9966147 Direct control design using a Set Membership-based black-box optimization approach]\n
 Raffaele Galbiati, *Lorenzo Sabug, Jr.*, Fredy Ruiz, and Lorenzo Fagiano, /IEEE Conf. Control Technol. Appl./, Trieste, Italy, 2022.
