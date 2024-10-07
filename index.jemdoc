@@ -16,6 +16,7 @@ Contact: [lorenzojr.sabug@polimi.it Email], [https://www.linkedin.com/in/lrsabug
 I am a postdoctoral researcher at Politecnico di Milano, working with prof. Fredy Ruiz and prof. Lorenzo Fagiano. I earned a Ph.D. from the same institution with the dissertation /On data-driven optimization in the design and control of autonomous systems/. I am particularly interested in fast data-driven optimization algorithms that can be applied to time-critical contexts.
 
 == News 
+- \[2024.07.24\] Our new paper on multi-agent non-convex optimization with decision variable coupling is *accepted for presentation* at the /IEEE Conf. Decision and Control/ in Milan, Italy.
 - \[2024.07.04\] Application-focused article on [https://doi.org/10.1109/ACCESS.2024.3425933 optimization for induction heating design] is *accepted* for publication in IEEE Access.
 - \[2024.06.17\] New brief article on contextual black-box optimization is *[https://doi.org/10.1109/LCSYS.2024.3414970 out] on /IEEE Control Systems Letters (L-CSS)/*, which will also be presented at the /IEEE Conf. Decision and Control/ in Milan, Italy.
 - \[2024.03.12\] Contribution on control of exploitation/exploration trade-off in global optimization is *accepted for presentation* in American Control Conference.
