@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Profile"
+permalink: /profile/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,56 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Work and research journey
+* Mar 2025 - _present_: **Research associate** @ Imperial College
+  * Named co-investigator for EPSRC-funded grant ["Concurrent Learning and Control of Large-Scale Phenomena"](https://gtr.ukri.org/projects?ref=EP%2FZ533816%2F1)
+  * Collaborating with prof. Eric Kerrigan and prof. Guillermo Rein
+  * Methodological research on physics-informed machine learning and dual control
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2022 - Feb 2025: **Postdoctoral research fellow** @ Politecnico di Milano
+  * Participation in projects on airborne wind energy and drone swarms
+  * Methodological research on mathematical optimisation algorithms
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* Nov 2016 - Oct 2019: **Research associate** @ University of the Philippines Diliman
+  * Participation as a lead engineer in Philippine Microsatellite Program
+  * Embedded software development for communications payload and experimental aspect sensor
+
+## Educational profile
+* **Ph.D.** (_cum laude_), Ingegneria dell'Informazione, Politecnico di Milano, Italy, 2023
+* **M.Sc.**, Elektrotechnik, Informationstechnik, Technische Informatik, RWTH Aachen, Germany, 2016
+* **B.Sc.**, Computer Engineering, University of the Philippines Diliman, Philippines, 2012
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+
+## Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+## Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- ## Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+## Service and leadership
 ======
 * Currently signed in to 43 different slack teams
