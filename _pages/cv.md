@@ -48,21 +48,21 @@ redirect_from:
   _More exhaustive list found [here](/publications)._
 
   
-## Recent Talks
-  <!-- <ul>{% assign recent_talks = site.talks | sort: 'date' | reverse %}
+<!--## Recent Talks
+   <ul>{% assign recent_talks = site.talks | sort: 'date' | reverse %}
   {% for post in recent_talks limit:3 %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
-  
+  {% endfor %}</ul>
+
   Wait! Still under construction :-)
 
-  <!-- _More exhaustive list found [here](/talks)._ -->
+  _More exhaustive list found [here](/talks)._
   
-<!-- ## Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
 ## Service and leadership
-* Currently signed in to 43 different slack teams
+* Occasional reviewer for international journals and conferences in optimization and control, e.g., _Automatica_, _Int. J. Control_, _L-CSS_, _IEEE CDC_, _IEEE CCTA_, etc.
+* Mentoring aspiring research graduate students, in a personal capacity, and as mentor with Graduate Mentorship and Assistance Program ([GradMAP Philippines](https://www.gradmap.ph/)). 
