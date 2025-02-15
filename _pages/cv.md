@@ -49,12 +49,13 @@ redirect_from:
 
   
 ## Recent Talks
-  <ul>{% assign recent_talks = site.talks | sort: 'date' | reverse %}
+  <!-- <ul>{% assign recent_talks = site.talks | sort: 'date' | reverse %}
   {% for post in recent_talks limit:3 %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+  Wait! Still under construction :-)
 
-  _More exhaustive list found [here](/talks)._
+  <!-- _More exhaustive list found [here](/talks)._ -->
   
 <!-- ## Teaching
 ======
