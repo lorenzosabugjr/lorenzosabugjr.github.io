@@ -38,16 +38,23 @@ redirect_from:
   * Sub-skill 2.3
 * Skill 3 -->
 
+## Recent Publications
 
-## Publications
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% assign recent_publications = site.publications | sort: 'date' | reverse %}
+  {% for post in recent_publications limit:3 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+  _More exhaustive list found [here](/publications)._
+
   
-## Talks
-  <ul>{% for post in site.talks reversed %}
+## Recent Talks
+  <ul>{% assign recent_talks = site.talks | sort: 'date' | reverse %}
+  {% for post in recent_talks limit:3 %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+  _More exhaustive list found [here](/talks)._
   
 <!-- ## Teaching
 ======
